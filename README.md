@@ -1,1 +1,1 @@
-# Parkinson-s-study
+# Parkinsons Study
